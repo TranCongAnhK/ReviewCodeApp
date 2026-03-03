@@ -24,4 +24,7 @@ public class ẽ1 {
 
         sc.close();
     }
-}
+
+} 
+
+//gsdghághjda
